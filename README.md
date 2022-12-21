@@ -82,8 +82,8 @@ Then I got to know a bit of HTML and CSS, and I was like "Maybe that's it, maybe
 
 <div align="center">  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajedehAdelia&langs_count=8&layout=compact&theme=radical)](https://github.com/SajedehAdelia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajedehAdelia&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/SajedehAdelia/github-readme-stats)
 
-[![Adelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajedehAdelia&show_icons=true&theme=radical)
+[![Adelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajedehAdelia&show_icons=true&theme=tokyonight)
 
 </div>
