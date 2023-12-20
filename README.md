@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-As I can remember, I always wanted to become a programmer, but IT world seemed vast and infinite in my eyes, there were a lot of fields
-to be discovered. 
-I loved Java when I studied it for one semester in university, I enjoyed working with relational DataBases too. Networking was 
-a NO to me.
-Then I got to know a bit of HTML and CSS, and I was like "Maybe that's it, maybe I wanna be a web developer!".
+"As I can remember, I always wanted to become a programmer, but the IT world seemed vast and infinite in my eyes, with many fields yet to be discovered. I loved Java when I studied it for one semester in university, and I also enjoyed working with relational databases. Networking for me, as French people say: 'Pas ma tasse de thé. Then, I got to know a bit of HTML and CSS, and I thought, 'Maybe that's it; maybe I want to be a web developer!'"
 
 <hr>
 
