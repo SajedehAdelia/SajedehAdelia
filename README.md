@@ -19,14 +19,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### Connect with me
-<div align="center">
-<a href="[www.linkedin.com/in/adelia-fathipour-040872231](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:adelia.fathipour@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
-</div>  
+<div align="center"> <a href="https://www.linkedin.com/in/adelia-fathipour-040872231" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" /> </a> <a href="mailto:adelia.fathipour@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" /> </a> </div>
 
 <hr>
 
